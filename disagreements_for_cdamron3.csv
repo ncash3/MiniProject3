@@ -1,0 +1,18 @@
+Field;WOCProjectID;AuthorValue;ValidatorValue;KeyEvidence
+HasRecovered;https://github.com/stan-dev/cmdstanpy;N/A (no inactivity gap existed);No;no gap of 3+ months, longest zero stretch 2 months, continuous activity
+HasRecovered;https://github.com/xeokit/xeokit-sdk;N/A (no inactivity gap existed);No;no zero-commit months at all, continuous activity
+ActivityPattern;https://github.com/jonescompneurolab/hnn;irregular;declining;peak 776 in 2017, 5 to 54 per year since 2022
+ActivityPattern;https://github.com/lpwgroup/crank;irregular;declining;152 and 165 in 2018 and 2019, then at most 19 per year
+ActivityPattern;https://github.com/MariaNattestad/Ribbon;U-shaped;irregular;spikes in 2016 (206), 2020 (65) and 2024 (194) with quiet years between
+ActivityPattern;https://github.com/mirnylab/cooler;declining;U-shaped;fell from 349 in 2017 to 8 in 2022, then back to 159 and 158
+ActivityPattern;https://github.com/rveltz/PiecewiseDeterministicMarkovProcesses.jl;irregular;declining;peak 225 in 2018 then 0 to 20 per year
+ActivityPattern;https://github.com/stan-dev/cmdstanpy;irregular;declining;744 in 2021 falling to 95 in 2024 with a rebound to 213 in 2025
+ActivityPattern;https://github.com/xeokit/xeokit-sdk;irregular;rising;176 in 2018 rising to 5548 in 2024 and 5026 in 2025
+RecentThemes;https://github.com/jhuapl-boss/intern;Bug fixes:Release;Bug fixes:Feature development;4 fix commits (#118, #117, #113, #108) plus user-agent and visibility-toggle features
+RecentThemes;https://github.com/jonescompneurolab/hnn;Documentation updates:Bug fixes;Documentation updates:Other;7 README and install-doc commits plus 2 build commits for dockerfile and xquartz
+RecentThemes;https://github.com/lpwgroup/crank;Release:Bug fixes;Bug fixes:Dependency updates;four fix commits in 2025-04 plus numpy v2 and Python 3.12 compatibility
+RecentThemes;https://github.com/mirnylab/cooler;Dependency updates:Other;Automated bot contributions:Other;6 pre-commit-ci and dependabot commits plus gitignore edits
+RecentThemes;https://github.com/privefl/bigstatsr;Bug fixes:Dependency updates;Bug fixes:Other;Fix #199 and Inf/NA and static_cast fixes plus ARM and revdep checks
+RecentThemes;https://github.com/stan-dev/cmdstanpy;Bug fixes:Feature development;Bug fixes:Other;logging-level fixes plus pylint and refactor commits
+RecentThemes;https://github.com/thelfer/MFrontGenericInterfaceSupport;Bug fixes:Feature development;Bug fixes:Release;Fix Issue #276, #287, #266, #263 and failure-handler fixes plus update release notes
+RecentThemes;https://github.com/xeokit/xeokit-sdk;Feature development:Documentation updates;Feature development:Release;XEOK-511 scaleAxis and XEOK-505 metadata adapter plus v2.6.114 bump and changelog

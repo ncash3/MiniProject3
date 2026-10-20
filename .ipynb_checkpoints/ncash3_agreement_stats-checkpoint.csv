@@ -1,6 +1,0 @@
-Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
-HasRecovered;80.0;100.0;0.444;1.0;2;2;NA;Terminology mismatch: N/A vs No for the two projects with no gap, resolved by agreeing they mean the same thing
-WhyRecovered;100.0;100.0;NA;NA;0;0;NA;Free-text field judged by meaning. Explanations matched on who returned and what changed. Issue-level triggers could not be verified from commits
-ActivityPattern;30.0;80.0;0.041;0.615;7;5;NA;Most disagreements were irregular vs declining. Two U-shaped and rising cases (cooler and xeokit) stayed open
-Currentstatus;100.0;100.0;NA;NA;0;0;NA;All projects Active under the 2025-04-01 cutoff so kappa is undefined
-RecentThemes;20.0;90.0;NA;NA;8;7;NA;Differences in treating merge, bot and refactor commits. Mostly resolved by following the Coding Guide categories
